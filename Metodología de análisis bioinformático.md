@@ -214,7 +214,7 @@ bedtools coverage -a genome_windows.bed -b ${cepa}.RG.MD_S288C_CBS12357.HybConca
 
 **Grafico en R**  
 
-El codigo se llama **CovAnalysis.R** (adjunto en el correo).  
+El codigo se llama [CovAnalysis](./R_scripts/CovAnalysis.R).  
 
 El resultado esperado es de tipo: (Se: azul | Sc: rojo)  
 ![figure1. Ploidia](./Imgs/H3IC1.png)  
