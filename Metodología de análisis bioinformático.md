@@ -217,7 +217,7 @@ bedtools coverage -a genome_windows.bed -b ${cepa}.RG.MD_S288C_CBS12357.HybConca
 El codigo se llama **CovAnalysis.R** (adjunto en el correo).  
 
 El resultado esperado es de tipo: (Se: azul | Sc: rojo)  
-![figure1. Ploidia](/Users/tomasp/Library/CloudStorage/Dropbox/Tomas_Tesis_Proyectos_LGM/MS_VZ/Rplot01.png)  
+![figure1. Ploidia](./Imgs/H3IC1.png)  
 
 El analisis se realiza considerando que dado al presencia del rADN en el cromosoma XII, es de esperar que este posea una cobertura mucho mayor que el promedio.  
 En este caso, todos lo cromosomas poseen una cobertura promedio entre 50 y 70x aproximadamente, lo cual sugiere que la relacion es **1:1**. Los casos anomalos corresponden a los cromosoma XII y al cromosoma III de *S. eubayanus*. Este ultimo si podria sugerir una aneuploidia para este cromosoma.  
@@ -271,10 +271,10 @@ Una linea de evolucion por cada hibrido fue seleccionada para secuenciacion con 
 La visualizacion de la sintenia entre los genomas se realizo en la plataforma [D-GENIES](https://dgenies.toulouse.inra.fr). El resultado puede descargarse como PNG o archivo vectorial para ajustar nombres de los cromosomas.  
 
 Alineamiento entre H3A y H3I:  
-![Synteny](/Users/tomasp/Library/CloudStorage/Dropbox/Tomas_Tesis_Proyectos_LGM/MS_VZ/08.LongReadsAssemblies/HB3A_vs_HB3I.svg)  
+![Synteny](./Imgs/HB3A_vs_HB3I.svg)  
 
 Alineamiento entre H4A y H4I:  
-![Synteny](/Users/tomasp/Library/CloudStorage/Dropbox/Tomas_Tesis_Proyectos_LGM/MS_VZ/08.LongReadsAssemblies/HB44A_vs_HB44I.svg)  
+![Synteny](./Imgs/HB44A_vs_HB44I.svg)  
 
 El número de SVs detectadas entre **H3A** y **H3I** fueron:  
 
