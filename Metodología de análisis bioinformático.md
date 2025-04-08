@@ -223,15 +223,15 @@ El analisis se realiza considerando que dado al presencia del rADN en el cromoso
 En este caso, todos lo cromosomas poseen una cobertura promedio entre 50 y 70x aproximadamente, lo cual sugiere que la relacion es **1:1**. Los casos anomalos corresponden a los cromosoma XII y al cromosoma III de *S. eubayanus*. Este ultimo si podria sugerir una aneuploidia para este cromosoma.  
 
 Con esta metodología se determino que los hibiridos ancestrales poseen una ploidia de tipo:  
-**H3A: se:sc -> 1:1**  
-**H3IC1: se:sc -> 1:1**  
-**H3IC2: se:sc -> 1:1**  
-**H3IC3: se:sc -> 1:1**  
+[**H3A: se:sc -> 1:1**](./Imgs/H3A_MeanCov_ploidy.png)  
+[**H3IC1: se:sc -> 1:1**](./Imgs/H3IC1_MeanCov_Ploidy.png)    
+[**H3IC2: se:sc -> 1:1**](./Imgs/HB31C2_MeanCov_ploidy.png)    
+[**H3IC3: se:sc -> 1:1**](./Imgs/HB31C3_MeanCov_plody.png)    
 
-**H44A: se:sc -> 2:1**  
-**H44IC1: se:sc -> 2:1**  
-**H44IC2: se:sc -> 2:1**  
-**H44IC3: se:sc -> 2:1**  
+[**H44A: se:sc -> 2:1**](./Imgs/H44A_MeanCov_plody.png)  
+[**H44IC1: se:sc -> 2:1**](./Imgs/HB44IC1_MeanCov_ploidy.png)    
+[**H44IC2: se:sc -> 2:1**](./Imgs/HB44IC2_MeanCov_plody.png)    
+[**H44IC3: se:sc -> 2:1**](./Imgs/HB44IC3_MeanCov_plody.png)    
 
 En conclusion, la evolucion experimental no afectó la plidio de los híbridos.  
 
