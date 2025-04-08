@@ -217,7 +217,7 @@ bedtools coverage -a genome_windows.bed -b ${cepa}.RG.MD_S288C_CBS12357.HybConca
 El codigo se llama [CovAnalysis](./R_scripts/CovAnalysis.R).  
 
 El resultado esperado es de tipo: (Se: azul | Sc: rojo)  
-![figure1. Ploidia](./Imgs/H3IC1.png)  
+![figure1. Ploidia](./Imgs/H3A_MeanCov_ploidy.png)    
 
 El analisis se realiza considerando que dado al presencia del rADN en el cromosoma XII, es de esperar que este posea una cobertura mucho mayor que el promedio.  
 En este caso, todos lo cromosomas poseen una cobertura promedio entre 50 y 70x aproximadamente, lo cual sugiere que la relacion es **1:1**. Los casos anomalos corresponden a los cromosoma XII y al cromosoma III de *S. eubayanus*. Este ultimo si podria sugerir una aneuploidia para este cromosoma.  
