@@ -17,7 +17,7 @@ Raw result:
 
 [chrXII fitlered](./chrXII_filtered.txt) -> 153 SVs  
 [chrXII + > 1kb filtered](./chrXII_size_filtered.txt) -> 81  
-[Trasloc](./map_966.assembly.final_to_1206.assembly.final.svg) -> 2 (ChrII_ChrVII, ChrXV_ChrII)  
+![Trasloc](./map_966.assembly.final_to_1206.assembly.final.svg) -> 2 (ChrII_ChrVII, ChrXV_ChrII)  
 
 3. Distribucion de Svs    
 [codigo R para visualizar](./kariotypeR.r)  
