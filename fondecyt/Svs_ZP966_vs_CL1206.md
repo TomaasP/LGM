@@ -22,7 +22,6 @@ Trasloc -> 2 (ChrII_ChrVII, ChrXV_ChrII)
 
 3. Distribucion de Svs    
 [codigo R para visualizar](./kariotypeR.r)  
-
 ![](./CL1206_Svs.svg)    
 
 4. Densidad de genes en cada cromosoma  
