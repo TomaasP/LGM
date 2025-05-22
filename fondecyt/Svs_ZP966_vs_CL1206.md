@@ -19,12 +19,12 @@ Raw result:
 [chrXII + > 1kb filtered](./chrXII_size_filtered.txt) -> 81  
 [Trasloc](./map_966.assembly.final_to_1206.assembly.final.svg) -> 2 (ChrII_ChrVII, ChrXV_ChrII)  
 
-3. Distribucion de SVs (en ambos genomas)  
-[code:](./kariotypeR.r)  
+3. Distribucion de Svs    
+[codigo R para visualizar](./kariotypeR.r)  
 [CL1206](./CL1206_Svs.pdf)    
-[ZP966]()  
 
-4. Densidad de genes en cada cromosoma
+4. Densidad de genes en cada cromosoma  
+
 * Generar ventanas de 1 kb a partir del indexado de un genoma  
 
 `bedtools makewindows -g 1206.assembly.final.fa.fai -w 1000 > 1206.assembly.final.1kbW.bed`  
@@ -36,7 +36,7 @@ Raw result:
 * Intersectar para sumar una cuerta columna con el numero de genes por ventana.  
 
 `bedtools intersect -a 1206.assembly.final.1kbW.bed -b CL1206.final.genes.bed -c > 1206_geneDensity.txt`  
-* Iterar el [](./kariotypeR.r)  
+* Iterar el [codigo de viz](./kariotypeR.r)  
 
 [**Resultado**](./chromosome.pdf)  
 
