@@ -17,11 +17,12 @@ Raw result:
 
 [chrXII fitlered](./chrXII_filtered.txt) -> 153 SVs  
 [chrXII + > 1kb filtered](./chrXII_size_filtered.txt) -> 81  
-![Trasloc](./map_966.assembly.final_to_1206.assembly.final.svg) -> 2 (ChrII_ChrVII, ChrXV_ChrII)  
+Trasloc -> 2 (ChrII_ChrVII, ChrXV_ChrII)  
+![](./map_966.assembly.final_to_1206.assembly.final.svg)
 
 3. Distribucion de Svs    
 [codigo R para visualizar](./kariotypeR.r)  
-[CL1206](./CL1206_Svs.pdf)    
+![](./CL1206_Svs.pdf)    
 
 4. Densidad de genes en cada cromosoma  
 
@@ -63,7 +64,8 @@ Las primeras cuatro columnas corresponden a la info del gen, y las siguientes a 
 
 https://biit.cs.ut.ee/gplink/l/aj5NGZ1GXTm  
 
-[Resultado](./gProfiler_scerevisiae_2025-05-22_10-54-47.png)  
+Resultado
+![](./gProfiler_scerevisiae_2025-05-22_10-54-47.png)  
 
 [Tabla](./gProfiler_scerevisiae_22-5-2025_12-54-08%20p.m.__intersections.csv)  
 
