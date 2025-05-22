@@ -1,0 +1,9 @@
+1206_966_Svs
+Total_SVs	     184
+Deletions	      84
+Insertions	      83
+Duplications	       5
+Contractions	       3
+Inversions	       2
+Translocations	       7
+
