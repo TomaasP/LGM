@@ -64,7 +64,7 @@ Las primeras cuatro columnas corresponden a la info del gen, y las siguientes a 
 
 https://biit.cs.ut.ee/gplink/l/aj5NGZ1GXTm  
 
-Resultado
+Resultado  
 ![](./gProfiler_scerevisiae_2025-05-22_10-54-47.png)  
 
 [Tabla](./gProfiler_scerevisiae_22-5-2025_12-54-08%20p.m.__intersections.csv)  
